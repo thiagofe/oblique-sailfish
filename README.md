@@ -10,4 +10,4 @@ For more information go to OpenRepos: <a href="https://openrepos.net/content/thi
 
 ## Launch of Projectile
 
-A particle is thrown with initial velocity at an angle θ relative to the horizontal axis (oblique launch) under the action of acceleration of gravity, acting vertically downwards, imposing a parabolic trajectory resulting from the composition of two movements.
+A particle is thrown with initial speed at an angle θ relative to the horizontal axis (oblique launch) under the action of acceleration of gravity, acting vertically downwards, imposing a parabolic trajectory resulting from the composition of two movements.
