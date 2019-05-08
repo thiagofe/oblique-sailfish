@@ -1,4 +1,4 @@
-## oblique-sailfish
+# oblique-sailfish
 
 <b>Oblique</b> calculates range, height and flight time of a projectile.
 
